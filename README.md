@@ -1,5 +1,6 @@
 # spritesheet-cleanup
 A tool for fixing up sprite sheets with inconsistent frame layouts.
+Live at: https://epirito.github.io/spritesheet-cleanup/
 
 ## Usage
 
